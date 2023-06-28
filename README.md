@@ -52,6 +52,7 @@ This project aims to develop a custom credit scoring model using the provided da
 
 For more details, please refer to the code and comments in the Jupyter Notebook or Python scripts.
 
+<<<<<<< HEAD
 
 ### The attributes in detail
 Attribute 1: (qualitative)
@@ -172,3 +173,5 @@ response variable
 1: bad
 2: good
 
+=======
+>>>>>>> 61217fc1de5a570297f2420ffae0339b5d30c88e

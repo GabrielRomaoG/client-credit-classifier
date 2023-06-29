@@ -54,7 +54,7 @@ I didn't need to make a lot of changes, but i did the following:
 
 ## EDA
 
-Some findings of teh EDA:
+Some findings of the EDA:
 
 ![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/fd742544-29db-404e-94f2-c8bad4d6c2c9)
 

@@ -13,6 +13,7 @@ This project aims to build a predictive model that will tell if a person is a go
 ## Code and Resources Used
 
 Python Version: 3.10.8
+
 packages: pandas, numpy, matplotlib, seaborn, sklearn
 
 ## Dataset

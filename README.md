@@ -40,11 +40,10 @@ The dataset contains 1000 records extracted from the client's database. It inclu
 
 To reproduce the project:
 
-1. Download the dataset from [this link](https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data).
-2. Set up a Python environment with the necessary libraries (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn).
-3. Run the provided code in the Jupyter Notebook or any Python environment of your choice.
-4. Follow the step-by-step instructions in the code to perform data exploration, build the logistic regression model, evaluate its performance, and develop the Naive Bayes model.
-5. Analyze and compare the results obtained from both models.
+1. Set up a Python environment with the necessary libraries (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn).
+2. Run the provided code in the Jupyter Notebook or any Python environment of your choice.
+3. Follow the step-by-step instructions in the code to perform data exploration, build the logistic regression model, evaluate its performance, and develop the Naive Bayes model.
+4. Analyze and compare the results obtained from both models.
 
 ## Conclusion
 

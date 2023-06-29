@@ -1,6 +1,6 @@
 # Credit Scoring Project
 
-This project aims to build a custom credit scoring model for a new target audience. It involves analyzing a dataset provided by the client and developing a predictive model to assess creditworthiness.
+This project aims to build a predictive model that will tell if a person is a good or bad payer based on the financial data of that given person.
 
 ## Project Tasks
 
@@ -12,7 +12,9 @@ This project aims to build a custom credit scoring model for a new target audien
 
 ## Dataset
 
-The dataset contains 1000 records extracted from the client's database. It includes the following attributes:
+The dataset contains 1000 records and you can encounter in this link: [finacial_data](https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data).
+
+It includes the following attributes:
 
 1. Status of existing checking account (qualitative)
 2. Duration in months (numerical)

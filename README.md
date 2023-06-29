@@ -44,4 +44,12 @@ It includes the following attributes:
 20. Foreign worker (qualitative)
 21. Response variable: 1 (bad) or 2 (good)
 
+## Data Cleaning
+
+I didn't need to make a lot of changes, but i did the following:
+
+- Verified if had any null values
+- replaced the attributes index for its true meaning for the EDA
+- changed the datatypes of the columns to int for the model
+
 

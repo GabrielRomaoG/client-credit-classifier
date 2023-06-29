@@ -45,17 +45,3 @@ It includes the following attributes:
 21. Response variable: 1 (bad) or 2 (good)
 
 
-## Getting Started
-
-To reproduce the project:
-
-1. Set up a Python environment with the necessary libraries (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn).
-2. Run the provided code in the Jupyter Notebook or any Python environment of your choice.
-3. Follow the step-by-step instructions in the code to perform data exploration, build the logistic regression model, evaluate its performance, and develop the Naive Bayes model.
-4. Analyze and compare the results obtained from both models.
-
-## Conclusion
-
-This project aims to develop a custom credit scoring model using the provided dataset. Through data exploration, logistic regression, and the Naive Bayes model, we seek to assess creditworthiness for a new target audience. By comparing the performance and discussing the qualities and limitations of each model, we aim to provide valuable insights for credit risk assessment.
-
-For more details, please refer to the code and comments in the Jupyter Notebook or Python scripts.

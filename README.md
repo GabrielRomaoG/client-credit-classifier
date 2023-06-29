@@ -2,13 +2,13 @@
 
 This project aims to build a predictive model that will tell if a person is a good or bad payer based on the financial data of that given person.
 
-## Project Tasks
+## Project Overview
 
-1. **Data Exploration**: Perform an exploratory analysis to understand the data distribution and the relationship between attributes and the response variable.
-2. **Logistic Regression Model**: Build a logistic regression model to construct a credit score, where a higher score indicates a lower probability of default.
-3. **Model Evaluation**: Assess the performance of the logistic regression model using appropriate evaluation metrics.
-4. **Alternative Model**: Develop an alternative credit scoring model using Naive Bayes algorithm.
-5. **Model Comparison**: Compare the performance of the logistic regression model and the Naive Bayes model, discussing their strengths and limitations.
+- Developed a tool to predict whether a customer is likely to be a good or bad payer with a minimum accuracy of 75%.
+- Evaluated and compare the performance of two models, logistic regression and naive Bayes, to determine the best model for the task.
+- Performed data cleaning and preprocessing to ensure the dataset is suitable for exploratory data analysis (EDA) and model training.
+- Conducted an EDA to gain insights into the dataset, including analyzing the distribution of various attributes and their relationships with the target variable.
+- Visualized the distributions of selected attributes using appropriate charts and plots.
 
 ## Dataset
 

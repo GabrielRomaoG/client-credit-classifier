@@ -65,7 +65,18 @@ Some findings of the EDA:
 - the credit amount attribute is a exponencial distribution having its pick around 2000 DM.
 ![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/d775ef6b-33c7-4523-83c7-d3cdc0285f31)
 
+# Model Building
 
+First, i transformed the columns to int type to fit into the models. After, i separeted the dataset in train and test.
+
+I tried two different models:
+
+- logistic regression, accuracy: 75%
+- Naive Bayes, accuracion: 74%
+
+So, the logistic model is better in terms of accuracy.
+
+  
 
 
 

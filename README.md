@@ -56,10 +56,13 @@ I didn't need to make a lot of changes, but i did the following:
 
 Some findings of the EDA:
 
+- 70% of the dataset is made by bad payers (700 rows)
 ![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/fd742544-29db-404e-94f2-c8bad4d6c2c9)
 
+- most of the clients have existing credits paid back till now
 ![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/c5803475-8bbe-4ec6-b080-739e19c15e7e)
 
+- the credit amount attribute is a exponencial distribution having its pick around 2000 DM.
 ![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/d775ef6b-33c7-4523-83c7-d3cdc0285f31)
 
 

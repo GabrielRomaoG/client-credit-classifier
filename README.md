@@ -2,6 +2,14 @@
 
 This project aims to build a custom credit scoring model for a new target audience. It involves analyzing a dataset provided by the client and developing a predictive model to assess creditworthiness.
 
+## Project Tasks
+
+1. **Data Exploration**: Perform an exploratory analysis to understand the data distribution and the relationship between attributes and the response variable.
+2. **Logistic Regression Model**: Build a logistic regression model to construct a credit score, where a higher score indicates a lower probability of default.
+3. **Model Evaluation**: Assess the performance of the logistic regression model using appropriate evaluation metrics.
+4. **Alternative Model**: Develop an alternative credit scoring model using Naive Bayes algorithm.
+5. **Model Comparison**: Compare the performance of the logistic regression model and the Naive Bayes model, discussing their strengths and limitations.
+
 ## Dataset
 
 The dataset contains 1000 records extracted from the client's database. It includes the following attributes:
@@ -28,13 +36,6 @@ The dataset contains 1000 records extracted from the client's database. It inclu
 20. Foreign worker (qualitative)
 21. Response variable: 1 (bad) or 2 (good)
 
-## Project Tasks
-
-1. **Data Exploration**: Perform an exploratory analysis to understand the data distribution and the relationship between attributes and the response variable.
-2. **Logistic Regression Model**: Build a logistic regression model to construct a credit score, where a higher score indicates a lower probability of default.
-3. **Model Evaluation**: Assess the performance of the logistic regression model using appropriate evaluation metrics.
-4. **Alternative Model**: Develop an alternative credit scoring model using Naive Bayes algorithm.
-5. **Model Comparison**: Compare the performance of the logistic regression model and the Naive Bayes model, discussing their strengths and limitations.
 
 ## Getting Started
 

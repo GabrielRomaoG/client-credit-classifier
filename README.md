@@ -52,4 +52,17 @@ I didn't need to make a lot of changes, but i did the following:
 - replaced the attributes index for its true meaning for the EDA
 - changed the datatypes of the columns to int for the model
 
+## EDA
+
+Some findings of teh EDA:
+
+![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/fd742544-29db-404e-94f2-c8bad4d6c2c9)
+
+![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/c5803475-8bbe-4ec6-b080-739e19c15e7e)
+
+![image](https://github.com/GabrielRomaoG/Credit-Scoring-Project/assets/98478233/d775ef6b-33c7-4523-83c7-d3cdc0285f31)
+
+
+
+
 

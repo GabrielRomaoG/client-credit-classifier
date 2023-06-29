@@ -10,6 +10,11 @@ This project aims to build a predictive model that will tell if a person is a go
 - Conducted an EDA to gain insights into the dataset, including analyzing the distribution of various attributes and their relationships with the target variable.
 - Visualized the distributions of selected attributes using appropriate charts and plots.
 
+## Code and Resources Used
+
+Python Version: 3.10.8
+packages: pandas, numpy, matplotlib, seaborn, sklearn
+
 ## Dataset
 
 The dataset contains 1000 records and you can encounter in this link: [finacial_data](https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data).

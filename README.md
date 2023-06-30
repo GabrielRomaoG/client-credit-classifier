@@ -18,7 +18,7 @@ packages: pandas, numpy, matplotlib, seaborn, sklearn
 
 ## Dataset
 
-The dataset contains 1000 records and you can encounter in this link: [finacial_data](https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data).
+The dataset contains 1000 records and you can encounter in this link: [financial_data](https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data).
 
 It includes the following attributes:
 
@@ -72,7 +72,7 @@ First, i transformed the columns to int type to fit into the models. After, i se
 I tried two different models:
 
 - logistic regression, accuracy: 75%
-- Naive Bayes, accuracion: 74%
+- Naive Bayes, accuracy: 74%
 
 So, the logistic model is better in terms of accuracy.
 

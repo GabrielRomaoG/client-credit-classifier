@@ -1,4 +1,4 @@
-# Credit Scoring Project
+# Credit Classifier
 
 This project aims to build a predictive model that will tell if a person is a good or bad payer based on the financial data of that given person.
 
